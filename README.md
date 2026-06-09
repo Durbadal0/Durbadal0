@@ -81,7 +81,15 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/ASA-2025-gold?style=for-the-badge" alt="ASA 2025"/></td>
-      <td>Winner, Health Policy Statistics Section Student Paper Competition, American Statistical Association</td>
+      <td>Winner, Health Policy Statistics Section Student Paper Competition, American Statistical Association (JSM 2025)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/WT_ASA-2025-gold?style=for-the-badge" alt="West TN ASA 2025"/></td>
+      <td>Best Paper Presentation Award (1st Place), West Tennessee American Statistical Association</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/FSU-2025-gold?style=for-the-badge" alt="FSU 2025"/></td>
+      <td>Yongyuan and Anna Li Award Winner for Best Paper Presentation, FSU</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/FSU-2025-blue?style=for-the-badge" alt="FSU 2025"/></td>
@@ -124,8 +132,12 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
       <td>Jagadis Bose Senior National Science Talent Search Scholar (2014–2020)</td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/ISI-2014-orange?style=for-the-badge" alt="ISI 2014"/></td>
+      <td>Selected in the top 30 of the Indian Statistical Institute Entrance Exam among ~50,000 candidates</td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/CMI-2014-orange?style=for-the-badge" alt="CMI 2014"/></td>
-      <td>Selected in the top 30 of the Chennai Mathematical Institute Entrance Exam among 10,000 candidates</td>
+      <td>Selected in the top 30 of the Chennai Mathematical Institute Entrance Exam among ~10,000 candidates</td>
     </tr>
   </table>
 </div>
