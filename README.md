@@ -39,8 +39,8 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 ### Published or Under Review Papers
 
 - **A Tutorial for Evaluating Cure Model Appropriateness** (2026) — *Published on arXiv (in final preparation for journal submission).* — **Ghosh, D.**, Mudunkotuwa, G., and Selukar, S.
-- **A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors** (2026) — *Submitted to Statistics in Medicine; revising for resubmission to a comparable journal.* — **Ghosh, D.**\*, Bi, Y.\*, and Selukar, S. *(\*equal contribution)*
-- **Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART** (2025) — *Under revision at JRSSC.* — **Ghosh, D.**, Bhattacharya, I., Sinha, D., Linero, A., and Rust, G.
+- **A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors** (2026) — *Published on arXiv; submitted to Statistics in Medicine; revising for resubmission to a comparable journal.* — **Ghosh, D.**\*, Bi, Y.\*, and Selukar, S. *(\*equal contribution)*
+- **Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART** (2025) — *Published on arXiv; under revision at JRSSC.* — **Ghosh, D.**, Bhattacharya, I., Sinha, D., Linero, A., and Rust, G.
 - **Estimating Causal Effects in Spatially Clustered Survival Data Using BART** (2025) — *Under revision at Annals of Applied Statistics.* — **Ghosh, D.**, Sinha, D., and Bhattacharya, I.
 
 ### Manuscripts in Preparation
@@ -203,12 +203,23 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Durbadal0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durbadal0&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Durbadal0&theme=onedark&row=1&column=6" alt="trophy">
+![Followers](https://img.shields.io/github/followers/Durbadal0?style=for-the-badge&logo=github&label=Followers&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Durbadal0&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+<br/>
+
+<a href="https://github.com/Durbadal0">
+  <img height="165em" alt="Durbadal0's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Durbadal0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+</a>
+<a href="https://github.com/Durbadal0">
+  <img height="165em" alt="Durbadal0's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durbadal0&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=86400" />
+</a>
+
+<br/>
+
+<img alt="Durbadal0's trophies" src="https://github-profile-trophy.vercel.app/?username=Durbadal0&theme=onedark&row=1&column=6&margin-w=8&no-frame=true" />
+
 </div>
 
 ---
