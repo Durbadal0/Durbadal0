@@ -34,30 +34,34 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - Monte Carlo Methods
 - Mixed Effects Models
 
-## 📦 Software Packages
-
-- [**BigRiverQTL.jl**](https://github.com/senresearch/BigRiverQTL.jl/tree/main) - A Julia package (registered August 2024) that streamlines quantitative trait locus (QTL) analysis. It consists of three components that cover the QTL workflow: preprocessing, genome scans, and visualization.
-
 ## 📝 Publications & Research
 
-### Manuscripts in Submission (Published on arXiv)
+### Published or Under Review Papers
 
-- **"A Tutorial for Evaluating Cure Model Appropriateness"** — Ghosh, D., Mudunkotuwa, G., & Selukar, S. (2026). *Published on arXiv; in final preparation for journal submission.*
-- **"A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors"** — Ghosh, D.\*, Bi, Y.\*, & Selukar, S. (2026). *\*Equal contribution. Published on arXiv; submitted to* Statistics in Medicine; *revising for resubmission to a comparable journal.*
-- **"Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART"** — Ghosh, D., Bhattacharya, I., Sinha, D., Linero, A., & Rust, G. (2025). *Published on arXiv; under revision at* JRSSC.
-
-### Under Review
-
-- **Review paper** — *Under review at the* Journal of the National Cancer Institute (JNCI).
+- **A Tutorial for Evaluating Cure Model Appropriateness** (2026) — *Published on arXiv (in final preparation for journal submission).* — **Ghosh, D.**, Mudunkotuwa, G., and Selukar, S.
+- **A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors** (2026) — *Submitted to Statistics in Medicine; revising for resubmission to a comparable journal.* — **Ghosh, D.**\*, Bi, Y.\*, and Selukar, S. *(\*equal contribution)*
+- **Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART** (2025) — *Under revision at JRSSC.* — **Ghosh, D.**, Bhattacharya, I., Sinha, D., Linero, A., and Rust, G.
+- **Estimating Causal Effects in Spatially Clustered Survival Data Using BART** (2025) — *Under revision at Annals of Applied Statistics.* — **Ghosh, D.**, Sinha, D., and Bhattacharya, I.
 
 ### Manuscripts in Preparation
 
-- **"Interpretable Bayesian Spatial Modeling of Environmental Mixtures and County-Level Chronic Disease Burden Using Sum-of-BARTs"** — Joint work with Sounak Chakraborty and Tanujit Dey.
-- **"Target Trial Emulation and Digital Twins for Externally Controlled Trials: A Methodological Framework and Practical R Tutorial"** — Joint work with Sounak Chakraborty and Tanujit Dey.
-- **"Investigating Antibiotic Exposure and Risk of Acute Graft-versus-Host Disease in Children Undergoing Hematopoietic Cell Transplant"** — Joint work with Akshay Sharma, Emily Zeng, Subodh Selukar, et al.
-- **"Estimating Causal Effects in Spatially Clustered Survival Data Using BART"**
-- **"Bayesian Extension of Flexible Multivariate Linear Mixed Models for Structured Multiple Traits"**
-- **"Bayesian Tensor Regression on Big Skewed Data with Mixed Response"**
+- **Novel Adaptive Two-Sample Tests for Survival Data with Long-Term Survivors** — *Targeting a tier-1 biostatistics/statistics journal.* — **Ghosh, D.** and Selukar, S.
+- **Sequential Monitoring Framework for Cure-Based Endpoints in Pediatric Oncology Trials** — *Methodology paper; in early development.* — **Ghosh, D.** and Selukar, S.
+- **Retrospective Analysis of Newly Defined B-Cell Recovery Criteria after CD19 CAR T-Cell Therapy in Pediatric B-ALL** — *Master's thesis manuscript in preparation.* — Bran, J., **Ghosh, D.**, et al.
+- **PREDICT AML: Transplant Outcomes by Transcriptomic Classification in Pediatric AML** — *Master's thesis manuscript in preparation.* — Van Epps, H., **Ghosh, D.**, et al.
+- **Interpretable Bayesian Spatial Modeling of Environmental Mixtures and County-Level Chronic Disease Burden Using Sum-of-BARTs** — *Methodology paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
+- **Target Trial Emulation and Digital Twins for Externally Controlled Trials: A Methodological Framework and Practical R Tutorial** — *Methodology / tutorial paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
+- **Investigating Antibiotic Exposure and Risk of Acute Graft-versus-Host Disease in Children Undergoing Hematopoietic Cell Transplant** — *Clinical research manuscript; in preparation.* — Joint work with Sharma, A., Zeng, E., Selukar, S., et al.
+
+### Software
+
+- [**BigRiverQTL.jl**](https://github.com/senresearch/BigRiverQTL.jl) — *Statistical Toolbox for QTL Analysis* (2024, registered in the Julia General Registry)
+  - Open-source Julia package for quantitative trait locus (QTL) analysis
+  - Complete workflow: preprocessing, genome scans (LOCO with BulkLMM/FlxQTL), kinship matrix computation, and visualization
+
+### Peer Review & Service
+
+- Served as a **peer reviewer (referee)** for a manuscript submitted to the *Journal of the National Cancer Institute (JNCI)*.
 
 ## 🎤 Presentations & Conferences
 
