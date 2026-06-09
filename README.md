@@ -14,32 +14,62 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI1OGQ3ZDVlZmRlMjIyODQ2MjJlZWI2ZGRmMWRiODg5OGUzNDYwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a PhD candidate in Biostatistics at Florida State University with a strong background in statistics, data science, and machine learning. My research focuses on Bayesian methods, spatial statistics, and causal inference, particularly applied to health disparities and medical research.
+I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0) with a strong background in statistics, data science, and machine learning. I hold a B.Stat. and M.Stat. from the Indian Statistical Institute. My research focuses on Bayesian methods, survival analysis, spatial statistics, and causal inference, with applications to health disparities, clinical trials, and medical research.
+
+## 🎓 Education
+
+- **Ph.D. in Biostatistics**, Florida State University — *Fall 2020 – Present* (GPA: 3.9/4.0)
+- **M.Stat. (Master of Statistics)**, Indian Statistical Institute — *2018 – 2020*
+- **B.Stat. (Bachelor of Statistics)**, Indian Statistical Institute — *2014 – 2018*
 
 ## 🔬 Research Interests
 
 - Bayesian Statistics
+- Survival Analysis & Cure Models
 - Biostatistics and Health Policy
 - Spatial Statistics
-- Causal Inference
+- Causal Inference (Target Trial Emulation, BART)
+- Clinical Trials (Historical Borrowing, Study Design)
 - Machine Learning & Deep Learning
 - Monte Carlo Methods
 - Mixed Effects Models
 
 ## 📦 Software Packages
 
-- [**BigRiverQTL.jl**](https://github.com/senresearch/BigRiverQTL.jl/tree/main) - A Julia package for quantitative trait locus (QTL) analysis. Registered in August 2024, this package streamlines the QTL analysis workflow through preprocessing, genome scans, and visualization components.
+- [**BigRiverQTL.jl**](https://github.com/senresearch/BigRiverQTL.jl/tree/main) - A Julia package (registered August 2024) that streamlines quantitative trait locus (QTL) analysis. It consists of three components that cover the QTL workflow: preprocessing, genome scans, and visualization.
 
-## 📝 Publications and Research
+## 📝 Publications & Research
+
+### Manuscripts in Submission (Published on arXiv)
+
+- **"A Tutorial for Evaluating Cure Model Appropriateness"** — Ghosh, D., Mudunkotuwa, G., & Selukar, S. (2026). *Published on arXiv; in final preparation for journal submission.*
+- **"A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors"** — Ghosh, D.\*, Bi, Y.\*, & Selukar, S. (2026). *\*Equal contribution. Published on arXiv; submitted to* Statistics in Medicine; *revising for resubmission to a comparable journal.*
+- **"Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART"** — Ghosh, D., Bhattacharya, I., Sinha, D., Linero, A., & Rust, G. (2025). *Published on arXiv; under revision at* JRSSC.
 
 ### Under Review
-- "Analysis of spatially clustered survival data with unobserved covariates using SBART" - *Biometrics* (2024)
 
-### Ongoing Research
-- "Modeling of clustered censored survival data with spatial correlated random effects using SBART"
-- "Estimating Causal Effects in Spatially Clustered Survival Data Using BART"
-- Bayesian extension of "Flexible multivariate linear mixed models for structured multiple traits"
-- Bayesian Tensor regression on big skewed data with mixed response
+- **Review paper** — *Under review at the* Journal of the National Cancer Institute (JNCI).
+
+### Manuscripts in Preparation
+
+- **"Interpretable Bayesian Spatial Modeling of Environmental Mixtures and County-Level Chronic Disease Burden Using Sum-of-BARTs"** — Joint work with Sounak Chakraborty and Tanujit Dey.
+- **"Target Trial Emulation and Digital Twins for Externally Controlled Trials: A Methodological Framework and Practical R Tutorial"** — Joint work with Sounak Chakraborty and Tanujit Dey.
+- **"Investigating Antibiotic Exposure and Risk of Acute Graft-versus-Host Disease in Children Undergoing Hematopoietic Cell Transplant"** — Joint work with Akshay Sharma, Emily Zeng, Subodh Selukar, et al.
+- **"Estimating Causal Effects in Spatially Clustered Survival Data Using BART"**
+- **"Bayesian Extension of Flexible Multivariate Linear Mixed Models for Structured Multiple Traits"**
+- **"Bayesian Tensor Regression on Big Skewed Data with Mixed Response"**
+
+## 🎤 Presentations & Conferences
+
+- **CM-STAT (CMStatistics), December 2026 — *Invited Talk*** (Upcoming)
+- ENAR Spring Meeting, 2025
+- Joint Statistical Meeting (JSM), 2024
+- Theory and Foundations of Statistics in the Era of Big Data Conference, 2024 (Poster)
+- ASA Florida Chapter, 2024
+- ASA Florida Chapter, 2023
+- NISS-GSN 3rd Annual Graduate Student Research Conference, 2023
+- SRCOS Summer Research Conference, 2023 (Poster)
+- Yongyuan and Anna Li Presentations, FSU, 2023
 
 ## 🏆 Awards & Achievements
 
@@ -50,24 +80,48 @@ I am a PhD candidate in Biostatistics at Florida State University with a strong 
       <td>Winner, Health Policy Statistics Section Student Paper Competition, American Statistical Association</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/SRCOS-2023-silver?style=for-the-badge" alt="SRCOS 2023"/></td>
-      <td>R.L Anderson Graduate Student Poster presentation award (Ranked 2nd)</td>
+      <td><img src="https://img.shields.io/badge/FSU-2025-blue?style=for-the-badge" alt="FSU 2025"/></td>
+      <td>Nominated for the Korwar Award (Best Student Researcher), FSU Statistics</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/SRCOS-2023-bronze?style=for-the-badge" alt="SRCOS 2023"/></td>
-      <td>Boyd Harshburger Travel award</td>
+      <td><img src="https://img.shields.io/badge/SRCOS-2023-silver?style=for-the-badge" alt="SRCOS 2023"/></td>
+      <td>R.L. Anderson Graduate Student Poster Presentation Award (Ranked 2nd)</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/NISS-2023-silver?style=for-the-badge" alt="NISS 2023"/></td>
       <td>Outstanding Research Presentation Award, GSN (Ranked 2nd)</td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/SRCOS-2023-bronze?style=for-the-badge" alt="SRCOS 2023"/></td>
+      <td>Boyd Harshburger Travel Award</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/FSU-2023-blue?style=for-the-badge" alt="FSU 2023"/></td>
+      <td>Nominated for the Korwar Award (Best Student Researcher), FSU Statistics (top 5 nominees)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/ASA_FL-2023-teal?style=for-the-badge" alt="ASA FL 2023"/></td>
+      <td>Travel Award for Paper Presentation, Florida Chapter of ASA</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/COGS_FSU-2023-teal?style=for-the-badge" alt="COGS 2023"/></td>
+      <td>Travel Award from COGS, FSU, for poster presentation at SRCOS</td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/FSU-2022-gold?style=for-the-badge" alt="FSU 2022"/></td>
-      <td>First place, FSU Data Science Competition</td>
+      <td>First Place, FSU Data Science Competition (Kaggle)</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/FSU-2023-bronze?style=for-the-badge" alt="FSU 2023"/></td>
-      <td>Fifth place, FSU Data Science Competition</td>
+      <td>Fifth Place, FSU Data Science Competition (Kaggle)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JBNSTS-2014-purple?style=for-the-badge" alt="JBNSTS 2014"/></td>
+      <td>Jagadis Bose Senior National Science Talent Search Scholar (2014–2020)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/CMI-2014-orange?style=for-the-badge" alt="CMI 2014"/></td>
+      <td>Selected in the top 30 of the Chennai Mathematical Institute Entrance Exam among 10,000 candidates</td>
     </tr>
   </table>
 </div>
@@ -83,28 +137,44 @@ I am a PhD candidate in Biostatistics at Florida State University with a strong 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1C2957?style=for-the-badge&logo=sas&logoColor=white)
 
-### Tools & Technologies
+### Statistical Software & Tools
+![Rcpp](https://img.shields.io/badge/Rcpp-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Stan](https://img.shields.io/badge/Stan-B2001D?style=for-the-badge&logoColor=white)
+![nimble](https://img.shields.io/badge/nimble-2E7D32?style=for-the-badge&logoColor=white)
+![WinBUGS](https://img.shields.io/badge/WinBUGS-4B275F?style=for-the-badge&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stan](https://img.shields.io/badge/Stan-B2001D?style=for-the-badge&logoColor=white)
-![WinBUGS](https://img.shields.io/badge/WinBUGS-4B275F?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
+**Statistical Methods:** Bayesian Statistics · Causal Inference · Machine Learning · Monte Carlo Methods · Mixed Effects Models · BART · Survival Analysis · Longitudinal Analysis · Clinical Trials · Study Design
+
 ## 🌟 Professional Experience
 
-- **Data Science Intern** - University of Tennessee Health Science Center (2024)
-- **Biostatistics Researcher Intern** - Sanofi (2023)
-- **Statistical Consultant** - ESA South Inc, FL (2022)
-- **Research Assistant** - College of Medicine, FSU (2021-2022)
-- **Biostatistician** - Global Health Collaboration Project (WHO) (2021-Present)
-- **Solo Instructor** - Florida State University (2022-2024)
-  - Introduction to Applied Statistics
-  - Statistics through Example
-  - Statistics for Biology
-  - Fundamental Business Statistics
+- **Statistical Consultant** — American Kennel Club (AKC) *(05/2024 – 08/2024)*
+  - Applied Bayesian Additive Regression Trees (BART) to study dog breed versatility across 133 breeds and seven performance categories.
+- **QTL Analysis Researcher** — University of Tennessee Health Science Center *(05/2024 – 08/2024)*
+  - Developed **BigRiverQTL.jl**; implemented LOCO genome scans and extended FlxQTL with Bayesian methodology.
+- **Biostatistics Intern** — Sanofi *(05/2023 – 08/2023)*
+  - Developed Bayesian historical-data-borrowing methods to improve clinical trial efficiency.
+- **Statistical Consultant** — ESA South Inc., FL *(05/2022 – 08/2022)*
+  - Analyzed 4,000+ temporary roof installations (post-Hurricane Irma); prepared expert testimony for contract appeals.
+- **Research Assistant** — College of Medicine, Florida State University *(12/2020 – 12/2022)*
+  - Built a Bayesian spatial survival model (SBART) to study racial disparities in breast cancer patients in Florida.
+- **Member, Global Health Collaboration Project** — World Health Organization (WHO) *(08/2021 – Present)*
+- **Data Science Intern** — MBB Labs *(05/2019 – 08/2019)*
+  - Built real-time fraud-detection algorithms using machine learning.
+
+### 👨‍🏫 Teaching Experience
+
+**Solo Instructor, Florida State University:**
+- Introduction to Applied Statistics (STA2122) — Spring 2024, Summer 2023, Spring 2022
+- Fundamental Business Statistics (STA2023) — Fall 2023
+- Statistics for Biology (STA2171) — Spring 2023
+- Statistics through Example (STA1013) — Summer 2022
 
 ## 📫 How to Reach Me
 
