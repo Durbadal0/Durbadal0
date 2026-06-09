@@ -59,21 +59,31 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
   - Open-source Julia package for quantitative trait locus (QTL) analysis
   - Complete workflow: preprocessing, genome scans (LOCO with BulkLMM/FlxQTL), kinship matrix computation, and visualization
 
-### Peer Review & Service
+## 💻 Technical Skills
 
-- Served as a **peer reviewer (referee)** for a manuscript submitted to the *Journal of the National Cancer Institute (JNCI)*.
+<div align="center">
 
-## 🎤 Presentations & Conferences
+### Programming Languages
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1C2957?style=for-the-badge&logo=sas&logoColor=white)
 
-- **CM-STAT (CMStatistics), December 2026 — *Invited Talk*** (Upcoming)
-- ENAR Spring Meeting, 2025
-- Joint Statistical Meeting (JSM), 2024
-- Theory and Foundations of Statistics in the Era of Big Data Conference, 2024 (Poster)
-- ASA Florida Chapter, 2024
-- ASA Florida Chapter, 2023
-- NISS-GSN 3rd Annual Graduate Student Research Conference, 2023
-- SRCOS Summer Research Conference, 2023 (Poster)
-- Yongyuan and Anna Li Presentations, FSU, 2023
+### Statistical Software & Tools
+![Rcpp](https://img.shields.io/badge/Rcpp-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Stan](https://img.shields.io/badge/Stan-B2001D?style=for-the-badge&logoColor=white)
+![nimble](https://img.shields.io/badge/nimble-2E7D32?style=for-the-badge&logoColor=white)
+![WinBUGS](https://img.shields.io/badge/WinBUGS-4B275F?style=for-the-badge&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+**Statistical Methods:** Bayesian Statistics · Causal Inference · Machine Learning · Monte Carlo Methods · Mixed Effects Models · BART · Survival Analysis · Longitudinal Analysis · Clinical Trials · Study Design
 
 ## 🏆 Awards & Achievements
 
@@ -142,32 +152,6 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
   </table>
 </div>
 
-## 💻 Technical Skills
-
-<div align="center">
-
-### Programming Languages
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1C2957?style=for-the-badge&logo=sas&logoColor=white)
-
-### Statistical Software & Tools
-![Rcpp](https://img.shields.io/badge/Rcpp-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Stan](https://img.shields.io/badge/Stan-B2001D?style=for-the-badge&logoColor=white)
-![nimble](https://img.shields.io/badge/nimble-2E7D32?style=for-the-badge&logoColor=white)
-![WinBUGS](https://img.shields.io/badge/WinBUGS-4B275F?style=for-the-badge&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![R Markdown](https://img.shields.io/badge/R_Markdown-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-</div>
-
-**Statistical Methods:** Bayesian Statistics · Causal Inference · Machine Learning · Monte Carlo Methods · Mixed Effects Models · BART · Survival Analysis · Longitudinal Analysis · Clinical Trials · Study Design
-
 ## 🌟 Professional Experience
 
 - **Statistical Consultant** — American Kennel Club (AKC) *(05/2024 – 08/2024)*
@@ -191,6 +175,22 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - Fundamental Business Statistics (STA2023) — Fall 2023
 - Statistics for Biology (STA2171) — Spring 2023
 - Statistics through Example (STA1013) — Summer 2022
+
+## 🎤 Presentations & Conferences
+
+- **CM-STAT (CMStatistics), December 2026 — *Invited Talk*** (Upcoming)
+- ENAR Spring Meeting, 2025
+- Joint Statistical Meeting (JSM), 2024
+- Theory and Foundations of Statistics in the Era of Big Data Conference, 2024 (Poster)
+- ASA Florida Chapter, 2024
+- ASA Florida Chapter, 2023
+- NISS-GSN 3rd Annual Graduate Student Research Conference, 2023
+- SRCOS Summer Research Conference, 2023 (Poster)
+- Yongyuan and Anna Li Presentations, FSU, 2023
+
+## 🧑‍⚖️ Peer Review & Service
+
+- Served as a **peer reviewer (referee)** for a manuscript submitted to the *Journal of the National Cancer Institute (JNCI)*.
 
 ## 📫 How to Reach Me
 
