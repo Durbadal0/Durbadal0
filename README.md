@@ -205,28 +205,6 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
   <a href="https://www.linkedin.com/in/durbadal-ghosh-1a7a27143"><img src="https://img.shields.io/badge/LinkedIn-Durbadal%20Ghosh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Durbadal0?style=for-the-badge&logo=github&label=Followers&color=blueviolet)
-![Profile Views](https://komarev.com/ghpvc/?username=Durbadal0&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-<br/>
-
-<a href="https://github.com/Durbadal0">
-  <img height="165em" alt="Durbadal0's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Durbadal0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-</a>
-<a href="https://github.com/Durbadal0">
-  <img height="165em" alt="Durbadal0's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durbadal0&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=86400" />
-</a>
-
-<br/>
-
-<img alt="Durbadal0's trophies" src="https://github-profile-trophy.vercel.app/?username=Durbadal0&theme=onedark&row=1&column=6&margin-w=8&no-frame=true" />
-
-</div>
-
 ---
 
 <div align="center">
