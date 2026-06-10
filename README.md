@@ -91,10 +91,6 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/SRCOS-2026-gold?style=for-the-badge" alt="SRCOS 2026"/></td>
-      <td>Kutner Travel Award for poster presentation at SRCOS, 2026</td>
-    </tr>
-    <tr>
       <td><img src="https://img.shields.io/badge/ASA-2025-gold?style=for-the-badge" alt="ASA 2025"/></td>
       <td>Winner, Health Policy Statistics Section Student Paper Competition, American Statistical Association (JSM 2025)</td>
     </tr>
@@ -117,6 +113,10 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
     <tr>
       <td><img src="https://img.shields.io/badge/NISS-2023-silver?style=for-the-badge" alt="NISS 2023"/></td>
       <td>Outstanding Research Presentation Award, GSN (Ranked 2nd)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SRCOS-2026-teal?style=for-the-badge" alt="SRCOS 2026"/></td>
+      <td>Kutner Travel Award for poster presentation at SRCOS, 2026</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/SRCOS-2023-bronze?style=for-the-badge" alt="SRCOS 2023"/></td>
