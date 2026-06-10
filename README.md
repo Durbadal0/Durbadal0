@@ -41,7 +41,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - **A Tutorial for Evaluating Cure Model Appropriateness** (2026) — *Published on arXiv (in final preparation for journal submission).* — **Ghosh, D.**\*, Mudunkotuwa, G.\*, and Selukar, S. *(\*equal contribution)*
 - **A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors** (2026) — *Published on arXiv; submitted to Statistics in Medicine; revising for resubmission to a comparable journal.* — **Ghosh, D.**\*, Bi, Y.\*, and Selukar, S. *(\*equal contribution)*
 - **Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART** (2025) — *Published on arXiv; under revision at JRSSC.* — **Ghosh, D.**, Bhattacharya, I., Sinha, D., Linero, A., and Rust, G.
-- **Estimating Causal Effects in Spatially Clustered Survival Data Using BART** (2025) — *Under revision at Annals of Applied Statistics.* — **Ghosh, D.**, Bhattacharya, I., and Sinha, D.
+- **Estimating Causal Effects in Spatially Clustered Survival Data Using BART** (2025) — *Under revision at Annals of Applied Statistics.* — Bhattacharya, I., Sinha, D., and **Ghosh, D.**
 
 ### Manuscripts in Preparation
 
