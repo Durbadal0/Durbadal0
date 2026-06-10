@@ -38,7 +38,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 
 ### Published or Under Review Papers
 
-- **A Tutorial for Evaluating Cure Model Appropriateness** (2026) — *Published on arXiv (in final preparation for journal submission).* — **Ghosh, D.**, Mudunkotuwa, G., and Selukar, S.
+- **A Tutorial for Evaluating Cure Model Appropriateness** (2026) — *Published on arXiv (in final preparation for journal submission).* — **Ghosh, D.**\*, Mudunkotuwa, G.\*, and Selukar, S. *(\*equal contribution)*
 - **A Comparative Study of Two-Sample Hypothesis Tests in the Presence of Long-Term Survivors** (2026) — *Published on arXiv; submitted to Statistics in Medicine; revising for resubmission to a comparable journal.* — **Ghosh, D.**\*, Bi, Y.\*, and Selukar, S. *(\*equal contribution)*
 - **Analysis of Spatially Clustered Survival Data with Unobserved Covariates Using SBART** (2025) — *Published on arXiv; under revision at JRSSC.* — **Ghosh, D.**, Bhattacharya, I., Sinha, D., Linero, A., and Rust, G.
 - **Estimating Causal Effects in Spatially Clustered Survival Data Using BART** (2025) — *Under revision at Annals of Applied Statistics.* — **Ghosh, D.**, Sinha, D., and Bhattacharya, I.
@@ -115,10 +115,6 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
       <td>Outstanding Research Presentation Award, GSN (Ranked 2nd)</td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/SRCOS-2026-teal?style=for-the-badge" alt="SRCOS 2026"/></td>
-      <td>Kutner Travel Award for poster presentation at SRCOS, 2026</td>
-    </tr>
-    <tr>
       <td><img src="https://img.shields.io/badge/SRCOS-2023-bronze?style=for-the-badge" alt="SRCOS 2023"/></td>
       <td>Boyd Harshburger Travel Award</td>
     </tr>
@@ -133,6 +129,10 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
     <tr>
       <td><img src="https://img.shields.io/badge/COGS_FSU-2023-teal?style=for-the-badge" alt="COGS 2023"/></td>
       <td>Travel Award from COGS, FSU, for poster presentation at SRCOS</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SRCOS-2026-teal?style=for-the-badge" alt="SRCOS 2026"/></td>
+      <td>Kutner Travel Award for poster presentation at SRCOS, 2026</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/FSU-2022-gold?style=for-the-badge" alt="FSU 2022"/></td>
