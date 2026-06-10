@@ -45,6 +45,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 
 ### Manuscripts in Preparation
 
+- **A Collaborative Approach for Developing Safety Stopping Rules in Phase 2 Oncology Clinical Trials** — *Manuscript writing completed; interactive R package in development.* — Selukar, S. R., **Ghosh, D.**, Mori, M., Triplett, B., and Frankel, P.
 - **Novel Adaptive Two-Sample Tests for Survival Data with Long-Term Survivors** — *Targeting a tier-1 biostatistics/statistics journal.* — **Ghosh, D.** and Selukar, S.
 - **Sequential Monitoring Framework for Cure-Based Endpoints in Pediatric Oncology Trials** — *Methodology paper; in early development.* — **Ghosh, D.** and Selukar, S.
 - **Retrospective Analysis of Newly Defined B-Cell Recovery Criteria after CD19 CAR T-Cell Therapy in Pediatric B-ALL** — *Master's thesis manuscript in preparation.* — Bran, J., **Ghosh, D.**, et al.
@@ -89,6 +90,10 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 
 <div align="center">
   <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/SRCOS-2026-gold?style=for-the-badge" alt="SRCOS 2026"/></td>
+      <td>Kutner Travel Award for poster presentation at SRCOS, 2026</td>
+    </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/ASA-2025-gold?style=for-the-badge" alt="ASA 2025"/></td>
       <td>Winner, Health Policy Statistics Section Student Paper Competition, American Statistical Association (JSM 2025)</td>
