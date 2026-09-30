@@ -52,6 +52,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - **PREDICT AML: Transplant Outcomes by Transcriptomic Classification in Pediatric AML** — *Master's thesis manuscript in preparation.* — Van Epps, H., **Ghosh, D.**, et al.
 - **Interpretable Bayesian Spatial Modeling of Environmental Mixtures and County-Level Chronic Disease Burden Using Sum-of-BARTs** — *Methodology paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
 - **Target Trial Emulation and Digital Twins for Externally Controlled Trials: A Methodological Framework and Practical R Tutorial** — *Methodology / tutorial paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
+- **Recipient Micro-Chimerism after Hematopoietic Cell Transplantation and Prediction of Pediatric Leukemia Relapse** — *Ongoing; NGS-based chimerism monitoring, planned Letter to Blood.* — Arnold, P. Y., Selukar, S., **Ghosh, D.**, et al., Sharma, A.
 - **Investigating Antibiotic Exposure and Risk of Acute Graft-versus-Host Disease in Children Undergoing Hematopoietic Cell Transplant** — *Clinical research manuscript; in preparation.* — Joint work with Sharma, A., Zeng, E., Selukar, S., et al.
 
 ### Software
@@ -59,6 +60,13 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - [**BigRiverQTL.jl**](https://github.com/senresearch/BigRiverQTL.jl) — *Statistical Toolbox for QTL Analysis* (2024, registered in the Julia General Registry)
   - Open-source Julia package for quantitative trait locus (QTL) analysis
   - Complete workflow: preprocessing, genome scans (LOCO with BulkLMM/FlxQTL), kinship matrix computation, and visualization
+- [**cureAssess**](https://CRAN.R-project.org/package=cureAssess) — *Assessing Cure Model Appropriateness for Survival Data* (2026, available on CRAN)
+  - R package with a two-stage workflow: AIC screening of matched cure / non-cure models, then Maller-Zhou, Shen, and RECeUS diagnostics
+  - Co-authored with Geethanjalee Mudunkotuwa (maintainer); `install.packages("cureAssess")`
+- [**CureCheck**](https://github.com/stjude-biohackathon/KIDS26-Team9) — *R Shiny app for evaluating cure model appropriateness* (2026, St. Jude BioHackathon)
+  - Point-and-click front end to cureAssess with a downloadable plain-language report; team lead, with Geethanjalee Mudunkotuwa, Sharon Freshour, and Rashid Mehmood
+- [**StoppingTime**](https://durbadal.shinyapps.io/StoppingTime/) — *R Shiny app for safety stopping rules in phase 2 oncology trials*
+  - Reproduces and explores the candidate stopping rules from Selukar, Ghosh, Mori, Triplett & Frankel
 
 ## 💻 Technical Skills
 
@@ -184,6 +192,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 ## 🎤 Presentations & Conferences
 
 - **CM-STAT (CMStatistics), December 2026 — *Invited Talk*** (Upcoming)
+- JudeStat, St. Jude Children's Research Hospital, 2026 (Poster: *Two-Sample Inference with Long-Term Survivors*)
 - ENAR Spring Meeting, 2025
 - Joint Statistical Meeting (JSM), 2024
 - Theory and Foundations of Statistics in the Era of Big Data Conference, 2024 (Poster)
@@ -193,8 +202,9 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - SRCOS Summer Research Conference, 2023 (Poster)
 - Yongyuan and Anna Li Presentations, FSU, 2023
 
-## 🧑‍⚖️ Peer Review & Service
+## 🧑‍⚖️ Peer Review, Service & Leadership
 
+- **Team Lead, CureCheck Shiny App**, St. Jude BioHackathon (2026): led a cross-departmental team of 4 (research scientists, bioinformaticians, and PhD students) to develop an R Shiny app for evaluating cure model appropriateness.
 - Served as a **peer reviewer (referee)** for a manuscript submitted to the *Journal of the National Cancer Institute (JNCI)*.
 
 ## 📫 How to Reach Me
