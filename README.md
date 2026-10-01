@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI1OGQ3ZDVlZmRlMjIyODQ2MjJlZWI2ZGRmMWRiODg5OGUzNDYwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0) with a strong background in statistics, data science, and machine learning. I hold a B.Stat. and M.Stat. from the Indian Statistical Institute. My research focuses on Bayesian methods, survival analysis, spatial statistics, and causal inference, with applications to health disparities, clinical trials, and medical research.
+I am a postdoctoral researcher and adjunct faculty in Biostatistics at **St. Jude Children's Research Hospital**, where I develop statistical methodology for pediatric oncology and provide collaborative biostatistical support on clinical and preclinical studies. I earned my **Ph.D. in Biostatistics** from Florida State University (2025) under Dr. Debajyoti Sinha, and I hold a B.Stat. and M.Stat. from the Indian Statistical Institute. My research focuses on survival analysis and cure-rate models, Bayesian nonparametrics (BART/SoftBART), spatial statistics, causal inference, and clinical trial design.
 
 ## 🎓 Education
 
-- **Ph.D. in Biostatistics**, Florida State University — *Fall 2020 – Present* (GPA: 3.9/4.0)
+- **Ph.D. in Biostatistics**, Florida State University — *Aug 2020 – Jul 2025* (GPA: 3.9/4.0)
 - **M.Stat. (Master of Statistics)**, Indian Statistical Institute — *2018 – 2020*
 - **B.Stat. (Bachelor of Statistics)**, Indian Statistical Institute — *2014 – 2018*
 
@@ -52,6 +52,9 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - **PREDICT AML: Transplant Outcomes by Transcriptomic Classification in Pediatric AML** — *Master's thesis manuscript in preparation.* — Van Epps, H., **Ghosh, D.**, et al.
 - **Interpretable Bayesian Spatial Modeling of Environmental Mixtures and County-Level Chronic Disease Burden Using Sum-of-BARTs** — *Methodology paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
 - **Target Trial Emulation and Digital Twins for Externally Controlled Trials: A Methodological Framework and Practical R Tutorial** — *Methodology / tutorial paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
+- **Recipient Micro-Chimerism after Hematopoietic Cell Transplantation and Prediction of Pediatric Leukemia Relapse** — *Ongoing; NGS-based chimerism monitoring, planned Letter to Blood.* — Arnold, P. Y., Selukar, S., Bi, Y., **Ghosh, D.**, et al., Sharma, A.
+- **Digital Twins and External Controls in Clinical Research** — *Early development; follow-on to the target trial emulation and digital twins tutorial.* — **Ghosh, D.**, et al.
+- **A Simulation Study of When Cure Models Are Appropriate** — *Working title; in preparation.* — Yang, Y., **Ghosh, D.**, and Selukar, S.
 - **Investigating Antibiotic Exposure and Risk of Acute Graft-versus-Host Disease in Children Undergoing Hematopoietic Cell Transplant** — *Clinical research manuscript; in preparation.* — Joint work with Sharma, A., Zeng, E., Selukar, S., et al.
 
 ### Software
@@ -59,6 +62,13 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - [**BigRiverQTL.jl**](https://github.com/senresearch/BigRiverQTL.jl) — *Statistical Toolbox for QTL Analysis* (2024, registered in the Julia General Registry)
   - Open-source Julia package for quantitative trait locus (QTL) analysis
   - Complete workflow: preprocessing, genome scans (LOCO with BulkLMM/FlxQTL), kinship matrix computation, and visualization
+- [**cureAssess**](https://CRAN.R-project.org/package=cureAssess) — *Assessing Cure Model Appropriateness for Survival Data* (2026, available on CRAN)
+  - R package with a two-stage workflow: AIC screening of matched cure / non-cure models, then Maller-Zhou, Shen, and RECeUS diagnostics
+  - Co-authored with Geethanjalee Mudunkotuwa (maintainer); `install.packages("cureAssess")`
+- [**CureCheck**](https://github.com/stjude-biohackathon/KIDS26-Team9) — *R Shiny app for evaluating cure model appropriateness* (2026, St. Jude BioHackathon)
+  - Point-and-click front end to cureAssess with a downloadable plain-language report; team lead, with Geethanjalee Mudunkotuwa, Sharon Freshour, and Rashid Mehmood
+- [**StoppingTime**](https://durbadal.shinyapps.io/StoppingTime/) — *R Shiny app for safety stopping rules in phase 2 oncology trials*
+  - Reproduces and explores the candidate stopping rules from Selukar, Ghosh, Mori, Triplett & Frankel
 
 ## 💻 Technical Skills
 
@@ -159,6 +169,8 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 
 ## 🌟 Professional Experience
 
+- **Postdoctoral Researcher** — St. Jude Children's Research Hospital, Memphis, TN *(07/2025 – Present)*
+  - Survival analysis and cure-rate models for pediatric oncology trials, sequential monitoring designs, and collaborative biostatistics on clinical and preclinical studies.
 - **Statistical Consultant** — American Kennel Club (AKC) *(05/2024 – 08/2024)*
   - Applied Bayesian Additive Regression Trees (BART) to study dog breed versatility across 133 breeds and seven performance categories.
 - **QTL Analysis Researcher** — University of Tennessee Health Science Center *(05/2024 – 08/2024)*
@@ -184,6 +196,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 ## 🎤 Presentations & Conferences
 
 - **CM-STAT (CMStatistics), December 2026 — *Invited Talk*** (Upcoming)
+- JudeStat, St. Jude Children's Research Hospital, 2026 (Poster: *Two-Sample Inference with Long-Term Survivors*)
 - ENAR Spring Meeting, 2025
 - Joint Statistical Meeting (JSM), 2024
 - Theory and Foundations of Statistics in the Era of Big Data Conference, 2024 (Poster)
@@ -193,8 +206,9 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - SRCOS Summer Research Conference, 2023 (Poster)
 - Yongyuan and Anna Li Presentations, FSU, 2023
 
-## 🧑‍⚖️ Peer Review & Service
+## 🧑‍⚖️ Peer Review, Service & Leadership
 
+- **Team Lead, CureCheck Shiny App**, St. Jude BioHackathon (2026): led a cross-departmental team of 4 (research scientists, bioinformaticians, and PhD students) to develop an R Shiny app for evaluating cure model appropriateness.
 - Served as a **peer reviewer (referee)** for a manuscript submitted to the *Journal of the National Cancer Institute (JNCI)*.
 
 ## 📫 How to Reach Me
