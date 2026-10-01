@@ -53,6 +53,7 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 - **Interpretable Bayesian Spatial Modeling of Environmental Mixtures and County-Level Chronic Disease Burden Using Sum-of-BARTs** — *Methodology paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
 - **Target Trial Emulation and Digital Twins for Externally Controlled Trials: A Methodological Framework and Practical R Tutorial** — *Methodology / tutorial paper; in preparation.* — Joint work with Sounak Chakraborty and Tanujit Dey.
 - **Recipient Micro-Chimerism after Hematopoietic Cell Transplantation and Prediction of Pediatric Leukemia Relapse** — *Ongoing; NGS-based chimerism monitoring, planned Letter to Blood.* — Arnold, P. Y., Selukar, S., Bi, Y., **Ghosh, D.**, et al., Sharma, A.
+- **Digital Twins and External Controls in Clinical Research** — *Early development; follow-on to the target trial emulation and digital twins tutorial.* — **Ghosh, D.**, et al.
 - **Investigating Antibiotic Exposure and Risk of Acute Graft-versus-Host Disease in Children Undergoing Hematopoietic Cell Transplant** — *Clinical research manuscript; in preparation.* — Joint work with Sharma, A., Zeng, E., Selukar, S., et al.
 
 ### Software
