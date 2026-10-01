@@ -14,11 +14,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzI1OGQ3ZDVlZmRlMjIyODQ2MjJlZWI2ZGRmMWRiODg5OGUzNDYwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0) with a strong background in statistics, data science, and machine learning. I hold a B.Stat. and M.Stat. from the Indian Statistical Institute. My research focuses on Bayesian methods, survival analysis, spatial statistics, and causal inference, with applications to health disparities, clinical trials, and medical research.
+I am a postdoctoral researcher and adjunct faculty in Biostatistics at **St. Jude Children's Research Hospital**, where I develop statistical methodology for pediatric oncology and provide collaborative biostatistical support on clinical and preclinical studies. I earned my **Ph.D. in Biostatistics** from Florida State University (2025) under Dr. Debajyoti Sinha, and I hold a B.Stat. and M.Stat. from the Indian Statistical Institute. My research focuses on survival analysis and cure-rate models, Bayesian nonparametrics (BART/SoftBART), spatial statistics, causal inference, and clinical trial design.
 
 ## 🎓 Education
 
-- **Ph.D. in Biostatistics**, Florida State University — *Fall 2020 – Present* (GPA: 3.9/4.0)
+- **Ph.D. in Biostatistics**, Florida State University — *Aug 2020 – Jul 2025* (GPA: 3.9/4.0)
 - **M.Stat. (Master of Statistics)**, Indian Statistical Institute — *2018 – 2020*
 - **B.Stat. (Bachelor of Statistics)**, Indian Statistical Institute — *2014 – 2018*
 
@@ -169,6 +169,8 @@ I am a PhD candidate in Biostatistics at Florida State University (GPA: 3.9/4.0)
 
 ## 🌟 Professional Experience
 
+- **Postdoctoral Researcher** — St. Jude Children's Research Hospital, Memphis, TN *(07/2025 – Present)*
+  - Survival analysis and cure-rate models for pediatric oncology trials, sequential monitoring designs, and collaborative biostatistics on clinical and preclinical studies.
 - **Statistical Consultant** — American Kennel Club (AKC) *(05/2024 – 08/2024)*
   - Applied Bayesian Additive Regression Trees (BART) to study dog breed versatility across 133 breeds and seven performance categories.
 - **QTL Analysis Researcher** — University of Tennessee Health Science Center *(05/2024 – 08/2024)*
